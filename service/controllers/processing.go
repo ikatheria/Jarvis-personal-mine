@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	scrapper "github.com/Harkishen-Singh/Jarvis-personal-assistant/service/utils"
+	scrapper "github.com/ikatheria/Jarvis-personal-mine/service/utils"
 )
 
 // processGoogleResponses scrapes the relevant Google search engine for SearchResults
