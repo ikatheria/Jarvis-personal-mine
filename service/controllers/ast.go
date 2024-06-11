@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/config"
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/messages"
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/services/herokuhost"
-	utils "github.com/Harkishen-Singh/Jarvis-personal-assistant/service/utils"
+	"github.com/ikatheria/Jarvis-personal-mine/service/config"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
+	"github.com/ikatheria/Jarvis-personal-mine/service/messages"
+	"github.com/ikatheria/Jarvis-personal-mine/service/services/herokuhost"
+	utils "github.com/ikatheria/Jarvis-personal-mine/service/utils"
 )
 
 // AST controls the basic conversation flow
