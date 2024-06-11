@@ -12,9 +12,9 @@ The prerequisites for installing the project :
 1. Clone the repository in your GOPATH
 
     ```bash
-        $ mkdir -p $GOPATH/src/github.com/Harkishen-Singh/
-        $ cd $GOPATH/src/github.com/Harkishen-Singh/
-        $ git clone https://github.com/Harkishen-Singh/Jarvis-personal-assistant.git
+        $ mkdir -p $GOPATH/src/github.com//ikatheria/
+        $ cd $GOPATH/src/github.com/ikatheria/
+        $ git clone https://github.com/ikatheria/Jarvis-personal-mine/.git
         $ cd Jarvis-personal-assistant
     ```
 2. Install Go and npm packages.
@@ -40,7 +40,7 @@ The prerequisites for installing the project :
 ### for executing tests
 
 7. `eslint view/web/app-jarvis.js` # for linting checks
-8. `cd tests && npm install && mocha tests.js`
+8. `cd tests && npm install && mocha test.js`
 
 ## Running the Desktop-app
 
