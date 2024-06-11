@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
 )
 
 // Configuration to contain all configuration
