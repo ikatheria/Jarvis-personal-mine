@@ -8,7 +8,7 @@ echo "fetching jarvis-service from https://github.com/ikatheria/Jarvis-personal-
 git clone https://github.com/ikatheria/Jarvis-personal-mine
 echo "finished"
 
-cd Jarvis-personal-assistant/service/
+cd Jarvis-personal-mine/service/
 echo "installing go dependencies"
 go get -u -v -d ./...
 
