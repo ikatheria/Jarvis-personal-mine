@@ -3,7 +3,7 @@ package messages
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
 	"io/ioutil"
 	"math/rand"
 	"net/http"
