@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
 	"github.com/hegedustibor/htgo-tts"
 )
 
