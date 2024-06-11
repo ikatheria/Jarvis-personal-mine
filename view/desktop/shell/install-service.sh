@@ -3,9 +3,9 @@
 which git
 which go
 
-echo "fetching jarvis-service from https://github.com/Harkishen-Singh/Jarvis-personal-assistant"
+echo "fetching jarvis-service from https://github.com/ikatheria/Jarvis-personal-mine"
 
-git clone https://github.com/Harkishen-Singh/Jarvis-personal-assistant
+git clone https://github.com/ikatheria/Jarvis-personal-mine
 echo "finished"
 
 cd Jarvis-personal-assistant/service/
