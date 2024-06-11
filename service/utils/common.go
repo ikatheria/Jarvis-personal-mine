@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/config"
+	"github.com/ikatheria/Jarvis-personal-mine/service/config"
 )
 
 func randomUserAgent() string {
