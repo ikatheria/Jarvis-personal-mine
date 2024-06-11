@@ -3,7 +3,7 @@ package controllers
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
 	"net/http"
 	"net/smtp"
 	"strings"
