@@ -1,4 +1,4 @@
-module github.com/Harkishen-Singh/Jarvis-personal-assistant
+module github.com//ikatheria/Jarvis-personal-mine/
 
 go 1.13
 
