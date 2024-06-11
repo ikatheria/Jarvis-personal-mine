@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
-	scrapper "github.com/Harkishen-Singh/Jarvis-personal-assistant/service/utils"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
+	scrapper "github.com/ikatheria/Jarvis-personal-mine/service/utils"
 	"github.com/PuerkitoBio/goquery"
 )
 
