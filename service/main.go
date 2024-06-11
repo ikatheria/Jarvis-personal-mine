@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/controllers"
-	"github.com/Harkishen-Singh/Jarvis-personal-assistant/service/logger"
+	"github.com/ikatheria/Jarvis-personal-mine/service/controllers"
+	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
 )
 
 var (
