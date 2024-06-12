@@ -1,4 +1,4 @@
-module github.com/ikatheria/Jarvis-personal-mine/
+module github.com/ikatheria/Jarvis-personal-mine
 
 go 1.13
 
