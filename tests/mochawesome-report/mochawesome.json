@@ -30,7 +30,7 @@
       {
         "uuid": "e51c8ce0-3e02-4015-9073-8c29644a2589",
         "title": "Firefox Environments",
-        "fullFile": "/home/dell/go/Jarvis-personal-mine/tests/test.js",
+        "fullFile": "/home/dell/Jarvis-personal-mine/tests/test.js",
         "file": "/test.js",
         "beforeHooks": [],
         "afterHooks": [],
@@ -74,7 +74,7 @@
           {
             "uuid": "6924e8cd-5c69-4ef2-8e1c-78265554ef8f",
             "title": "Jarvis assistant operations",
-            "fullFile": "/home/dell/go/Jarvis-personal-mine/tests/test.js",
+            "fullFile": "/home/dell/Jarvis-personal-mine/tests/test.js",
             "file": "/test.js",
             "beforeHooks": [],
             "afterHooks": [],
