@@ -7,7 +7,7 @@ require (
 	github.com/andybalholm/cascadia v1.3.2
 	github.com/ebitengine/purego v0.7.1
 	github.com/hajimehoshi/go-mp3 v0.3.4
-	github.com/hajimehoshi/oto/v2 v2.4.2
+	github.com/hajimehoshi/oto/v2 v2.4.1
 	github.com/hegedustibor/htgo-tts v0.0.0-20230402053941-cd8d1a158135
 	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
