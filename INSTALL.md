@@ -16,6 +16,8 @@ The prerequisites for installing the project :
         $ cd $GOPATH/src/github.com/ikatheria/
         $ git clone https://github.com/ikatheria/Jarvis-personal-mine/.git
         $ cd Jarvis-personal-assistant
+        $ go mod tidy
+        $ go mod vendor
     ```
 2. Install Go and npm packages.
     ```
