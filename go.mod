@@ -1,6 +1,6 @@
 module github.com/ikatheria/Jarvis-personal-mine
 
-go 1.22
+go 1.22.4
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.2
