@@ -129,30 +129,3 @@ Get the complete details of the medicine, including :
 7. Warnings and Precautions related to the medicine
 8. Storage conditions
 
-**Medicine Help based on symptoms**<br/>
-List your noticed symptoms and get immediate help on the medicines that could be taken.
-
-### DFD explaining the data flow in the software:<br>
-![DFd expalining data flow](https://files.gitter.im/muskankhedia/inED/moqup-_1_.png)
-
-## :wrench: Tech Stack
-
-* **Front-end:**  Web: AngularJS, Desktop App: Electron + AngularJS
-* **Back-end:** GoLang
-## :computer: Postman Documentation
-Postman is a powerful HTTP client for testing web services. Postman makes it easy to test, develop and document APIs by allowing users to quickly put together both simple and complex HTTP requests. <br/>
-Test the current APIs of Jarvis mentioned here on Postman - [Postman Link](https://documenter.getpostman.com/view/6521254/SzKZrvTu?version=latest)
-
-#  :trophy: Achievements
- ### Jarvis-personal-assistant has been selected many times in various coding programmes like 
-  
- #### KWoC-2019 (Kharagpur Winter of Code)
-[<img src="https://miro.medium.com/max/585/1*IyO7IeMmLgTe0sgwR0Koeg.jpeg" width="100" height="100" />](https://wiki.metakgp.org/w/Kharagpur_Winter_of_Code)
-
-
-#### JMoC-2019 (JIIT Month of Code)
-[<img src="https://jmoc.jodc.tech/logo.png"/>](https://jmoc.jodc.tech/)
-
-
-#### GSSoC-2020 (GirlScript Summer of Code)
-[<img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" width="400" height="100" />](https://www.gssoc.tech/index.html)
