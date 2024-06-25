@@ -7,7 +7,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/hegedustibor/htgo-tts v0.0.0-20190202120930-874fa9dd16ff
 	github.com/mattn/go-sqlite3 v1.14.22
-	github.com/ebitengine/oto/v3 v3.2.0
+	github.com/ikatheria/oto/
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	golang.org/x/net v0.0.0-20200320220750-118fecf932d8 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
