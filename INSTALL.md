@@ -15,7 +15,7 @@ The prerequisites for installing the project :
         $ mkdir -p $GOPATH/src/github.com//ikatheria/
         $ cd $GOPATH/src/github.com/ikatheria/
         $ git clone https://github.com/ikatheria/Jarvis-personal-mine/.git
-        $ cd Jarvis-personal-assistant
+        $ cd Jarvis-personal-mine
         $ go mod tidy
         $ go mod vendor
     ```

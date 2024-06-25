@@ -40,7 +40,7 @@ Run Jarvis:
 1. Run service: `make run`
 2. Run the desktop app: `make views`
 
-To get started with your contributions for Jarvis-personal-assistant see [CONTRBUTING.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/CONTRIBUTING.md)
+To get started with your contributions for Jarvis-personal-mine see [CONTRBUTING.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/CONTRIBUTING.md)
 
 ### Explanatory Video
 [![Jarvis explanatory video](https://files.gitter.im/Harkishen-Singh/QIzs/Screenshot-_38_.png)](https://youtu.be/jztI_iN82RY)
