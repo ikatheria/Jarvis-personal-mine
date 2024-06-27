@@ -31,7 +31,7 @@ To know the steps to install and run the project see [INSTALL.md](https://github
 
 Installation:
 
-1. Install all dependencies: `make install-all`
+1. Install all dependencies: `make install`
 
 Update dependencies: `make update`
 

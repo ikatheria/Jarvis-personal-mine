@@ -1,7 +1,7 @@
 install:
 	cd service/ && go get -v -u -d ./...
 
-install-all || update:
+install || update:
 	cd service/ && go get -v -u -d ./...
 	cd view/desktop/ && npm install
 
