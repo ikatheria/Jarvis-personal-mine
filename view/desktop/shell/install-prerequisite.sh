@@ -18,7 +18,7 @@ elif [[ ${platform} == *_Debian_* ]]; then
     rm go1.22.4.linux-amd64.tar.gz
     mkdir $HOME/go
     echo 'export GOPATH=$HOME/go'
-    echo 'PATH=$PATH:/usr/local/go/bin:$GOPATH/bin'
+    echo 'export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin'
     source $HOME/.bashrc
 
     apt-get install nodejs npm -y
