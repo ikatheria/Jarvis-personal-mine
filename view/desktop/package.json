@@ -8,10 +8,6 @@
     "build": "electron-packager . Jarvis-Desktop",
     "test": "shell/travis.sh"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ikatheria/Jarvis-Desktop-mine.git"
-  },
   "keywords": [
     "personal-assistant",
     "jarvis",
@@ -20,10 +16,6 @@
   ],
   "author": "codeZero",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ikatheria/Jarvis-Desktop-mine/issues"
-  },
-  "homepage": "https://github.com/ikatheria/Jarvis-Desktop-mine#readme",
   "devDependencies": {
     "asar": "2.0.1",
     "electron": "31.0.2",
