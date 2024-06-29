@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/ikatheria/Jarvis-personal-mine/service/logger"
-	"github.com/hegedustibor/htgo-tts"
+	"github.com/ikatheria/htgo-tts"
 )
 
 // TextToSpeech converts text to speech on a string, return status as boolean
