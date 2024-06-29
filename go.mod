@@ -5,7 +5,7 @@ go 1.22.4
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/PuerkitoBio/goquery v1.5.1
-	github.com/hegedustibor/htgo-tts v0.0.0-20190202120930-874fa9dd16ff
+	github.com/ikatheria/htgo-tts v1.0.0
 	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/ikatheria/oto/v3 v3.3.4
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
